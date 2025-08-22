@@ -5,7 +5,7 @@
 ![linter badge](https://github.com/facebookresearch/demucs/workflows/linter/badge.svg)
 
 
-**Important:** As I am no longer working at Meta, **this repository is not maintained anymore**.
+**Important:** This is a repository of the original demucs. I updated it to work with colabs as well.
 I've created a fork at [github.com/adefossez/demucs](https://github.com/adefossez/demucs). Note that this project is not actively maintained anymore
 and only important bug fixes will be processed on the new repo. Please do not open issues for feature request or if Demucs doesn't work perfectly for your use case :)
 
